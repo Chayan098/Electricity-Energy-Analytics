@@ -112,7 +112,7 @@ https://www.energy-charts.info/
 
 ## Author
 
-Your Name
+Chayan Das
 
 ## License
 
@@ -127,3 +127,4 @@ This project has been developed and completed under the **Indian Institute of In
 ## Project Submission & Organization
 
 This project has been developed and completed under the **Indian Institute of Internship (III)** as part of the internship program. The project is currently submitted for academic and internship evaluation.
+
